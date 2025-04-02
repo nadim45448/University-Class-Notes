@@ -13,6 +13,15 @@ Here, I have shared links to my lecture notes from various **courses** in **Goog
 - [Object-Oriented Analysis and Design](https://drive.google.com/file/d/1-zyqgrTCRzHCGG8ljbdtjh8ekyzxHxZm/view?usp=sharing)
 - [Software Engineering](https://drive.google.com/file/d/10SgwhGzq4AARitJrFFyUwPHdFGAHyWg_/view?usp=sharing)
 
+### 🌐 **Computer Networks & Operating Systems**
+- [Computer Networks](https://drive.google.com/file/d/14AddJHTw8QFE0myr8Gtz0SHaMYQSpmH-/view?usp=sharing)
+- [Operating System](https://drive.google.com/file/d/1wqNHRpvOyUG0_MQVjCV8DG9uZaLyzwU1/view?usp=sharing)
+- [Linux Command & Shell Script](https://drive.google.com/file/d/1tJKm1N6wFNBaWIWWXM-WC130H1IH4qxE/view?usp=sharing)
+
+### 🏗️ **Data Structures & Algorithms**
+- [Data Structure](https://drive.google.com/file/d/1n0EvgaJtrjNTxLy7SAOmbh_gAYJFmmXG/view?usp=sharing)
+- [Sorting Algorithm](https://drive.google.com/file/d/1_5H_Y3t5WhKxssHyVpRJX8V0gZNcK1Ks/view?usp=sharing)
+
 ### 🧠 **Theory Courses**
 - [Theory of Computation](https://drive.google.com/file/d/1Sh_nXVVHX3pGhE8Z_b8-rnkMNoUB0D2k/view?usp=sharing)
 
@@ -27,10 +36,6 @@ Here, I have shared links to my lecture notes from various **courses** in **Goog
 3. You can **view, download, or print** the notes as needed.
 
 ---
-
-## 📢 Contribute
-If you have any suggestions for corrections, feel free to create a **pull request** or open an **issue**!
-
 ---
 
 > _“Knowledge shared is knowledge multiplied.”_ 🚀
